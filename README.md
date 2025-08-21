@@ -20,6 +20,10 @@
 - 🤖 [AI-ML Projects](https://github.com/Addyking007/ai-ml-projects) – Collection of ML models (classification, regression, clustering).  
 - 🧹 [SQL Data Cleaning](https://github.com/Addyking007/sql-data-cleaning) – Data preprocessing with SQL.  
 - 📚 [Novel Quest](https://github.com/Addyking007/Novel-Quest) – AI-powered text analysis project.  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Addyking007&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Addyking007&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Addyking007&theme=tokyonight)
 
 ---
 
